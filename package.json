@@ -1,24 +1,24 @@
 {
-  "name": "Astro-Md",
-  "version": "7.0.0",
-  "description": "Multi device whatsapp bot.",
+  "name": "ɴᴇᴛʜᴜ-MD",
+  "version": "4.0.0",
+  "description": "Multi Device Whatsapp Bot.",
   "main": "index.js",
   "type": "commonjs",
   "license": "GPL-3.0",
 "scripts": {
-   "start": "pm2 start index.js --deep-monitoring --attach --name astro",
-   "stop": "pm2 stop astro"
+   "start": "pm2 start index.js --deep-monitoring --attach --name nethu",
+   "stop": "pm2 stop nethu"
    },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/vihangayt0/Astro-MD-V6.git"
+"url": "git+https://github.com/Blacksavi/NETHU-MD.git"
 },
 "keywords": [
-"whatsapp"
+"whatsapp" "nethu"
 ],
-"author": "VihangaYT",
-"developer": "VihangaYT",
-"homepage": "https://github.com/vihangayt0/Astro-MD-V6",
+"author": "SAVI",
+"developer": "SAVI",
+"homepage": "https://github.com/Blacksavi/NETHU-MD",
 "dependencies": {
 "@adiwajshing/baileys": "^5.0.0",
 "pino": "^7.0.5",
